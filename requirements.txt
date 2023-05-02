@@ -1,0 +1,8 @@
+Flask==2.1.2
+Flask_Cors
+Flask-SQLAlchemy==2.5.1
+Flask-Migrate==3.1.0
+openai
+requests
+ibm-watson>=6.1.0
+psycopg2>=2.8.6,<2.9
